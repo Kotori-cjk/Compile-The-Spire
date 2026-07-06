@@ -41,4 +41,4 @@
 ```
 
 # 源代码网址
-[](https://github.com/Kotori-cjk/CompileTheSpire)
+<https://github.com/Kotori-cjk/CompileTheSpire>
