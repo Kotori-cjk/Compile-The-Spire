@@ -42,3 +42,5 @@
 
 # 源代码网址
 <https://github.com/Kotori-cjk/CompileTheSpire>
+
+## 演示视频在 release 里
