@@ -38,6 +38,7 @@
 → 击败小怪，获得阶段性奖励并解锁后续房间
 → 收集所需代码块后挑战Boss
 → 根据判定结果通关并进行结算
+```
 
 # 源代码网址
-https://github.com/Kotori-cjk/CompileTheSpire
+[](https://github.com/Kotori-cjk/CompileTheSpire)
